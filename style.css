@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    font-family: cursive;
+     
+}
+.header_div{
+    background:aquamarine ;
+    color:azure;
+}
+.header_div p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    letter-spacing: 2px; 
+    font-size: 12px;
+    font-weight: bold;
+
+
+}
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+position: fixed;
+color:coral;
+bottom:0;
+width:100%;
+font-size: 18px;
+background-color:cornsilk;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(175, 172, 172);
+}
+.main_div{text-align: center;}
